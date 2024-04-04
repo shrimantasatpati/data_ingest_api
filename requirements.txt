@@ -1,0 +1,4 @@
+celery
+celery[redis]
+PyPDF2
+chromadb
